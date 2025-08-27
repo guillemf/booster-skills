@@ -2,7 +2,7 @@
 title: Introduction to Booster Skills
 author: Guillem EfeGe
 date: 2025-08-27
-category: [BoosterSkills]
+category: Overview
 layout: post
 ---
 
@@ -38,7 +38,7 @@ I organized this book into blocks, each of which dives into a specific concept. 
 
 In each chapter, you will find exercises to practice the skills presented, as well as specific bibliographic references to explore the concepts and gather more information about each technique.
 
-C> ### Part 1: CPU
+## Part 1: CPU
 
 ### Chapter 1: Task Manager
 
@@ -54,7 +54,7 @@ Now that you know your memory is not infinite and how to utilize it effectively,
 
 ### Chapter 4: Loading New Content
 
-C> ### Part 2: LAN
+## Part 2: LAN
 
 ### Chapter 5: Team Building
 
@@ -66,7 +66,7 @@ C> ### Part 2: LAN
 
 ### Chapter 9: Spread your Experience
 
-C> ### Part 3: WAN
+## Part 3: WAN
 
 ### Chapter 10: Create Your Identity
 
