@@ -5,7 +5,10 @@ permalink: /
 ---
 > **Booster 🚀 Skills** is a compilation of techniques to help you in your daily work. It is a set of improvements that focuses on removing friction and focusing on take the best of your time and effort, and the best of all, it is free for you to use it, improve it, and make it yours.
 
-***
+----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XEnM54St9oc?si=6lpzmnJeoEoaiYPS" title="Booster Skills Introduction" style="border:1;display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----
 
 Engineers often discuss the distinction between what we refer to as _Soft Skills_ and _Hard Skills_.
 
