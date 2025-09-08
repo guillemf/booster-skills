@@ -46,6 +46,9 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # Disqus comments
 # disqushandler:            sighingnow
 
+tracker:
+  google_analytics: "G-JC408HDM8G"
+
 exclude:
   - _drafts
 
