@@ -1,0 +1,14 @@
+---
+---
+{{ reference }}
+<p>
+{% if entry.abstract %}
+{ entry.abstract %}
+{% endif %}
+
+{% if entry.booklink %}
+    🔗 <a href="{{entry.booklink}}">{{entry.title }}</a>
+{% else %}
+    ⛓️‍💥 No link available
+{% endif %}
+</p>

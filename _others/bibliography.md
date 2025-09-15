@@ -6,4 +6,4 @@ category: Bibliography
 layout: post
 ---
 
-Bibliography to come
+{% bibliography %}
