@@ -53,6 +53,9 @@ exclude:
   - _drafts
 
 collections:
+  part1:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
@@ -62,6 +65,7 @@ collections:
 
 ordered_collections:
   - posts
+  - part1
   - pages
   - others
 
