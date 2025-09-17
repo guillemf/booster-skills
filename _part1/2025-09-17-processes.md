@@ -43,7 +43,9 @@ Do you imagine a risk investor making investments without any preparation or inv
 
 Long working hours are not a guarantee of a profitable return. In my professional life, I learned something that completely changed my perception of how I should invest my time.
 
-T> Make a clear separation between your professional and personal lives.
+> ##### TIP
+> Make a clear separation between your professional and personal lives.
+{: .block-tip }
 
 As a young developer, I was eager to demonstrate my value and knowledge of programming, just like most of you. I used to spend long hours working, far beyond office hours. My work was my passion.
 
@@ -120,7 +122,7 @@ One of the first lessons to learn when you want to increase your productivity is
 
 In the same way, you don't like to be bothered by any workmate when you are on vacation, on the weekend, or after work at home with your family or friends; you should have the same feeling when you are at work. And believe me, nothing is so crucial that it can't wait for you to take a break or finish your workday. If that's the case, there are better ways to contact you than through notifications.
 
-> Exercise 3.1: Review your active notifications.
+<p style="font-size: 20px; font-weight: bold;">Exercise 3.1: Review your active notifications.</p>
 
 We are often not aware of how many apps are sending us notifications. The best way to learn it is to list active notifications from apps and review whether we need them; then, activate or deactivate based on real needs.
 
@@ -183,7 +185,7 @@ Another fundamental reason to use a notebook and a pen initially is that apps on
 
 ## Start your journal
 
-> Exercise 3.2: Prepare your journal
+<p style="font-size: 20px; font-weight: bold;">Exercise 3.2: Prepare your journal</p>
 
 In this exercise, you will set up your journal for the organization.
 

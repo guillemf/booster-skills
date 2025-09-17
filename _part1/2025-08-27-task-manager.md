@@ -29,7 +29,7 @@ The reason for that is simple. When we focus on one task, all our resources are 
 
 The best way to understand what I'm talking about is by experiencing it firsthand. There is a straightforward exercise you can do to check the myth of multitasking by yourself.
 
-> Exercise F.2: Multitasking is worse than a lie.
+<p style="font-size: 20px; font-weight: bold;">Exercise 1.1: Multitasking is worse than a lie.</p>
 
 I found this exercise in the book [The Myth of Multitasking: How Doing It All Gets Nothing Done](https://www.amazon.com/gp/product/B07Y3TCQKL/ref=dbs_a_def_rwt_bibl_vppi_i1) by [Dave Crenshaw](https://davecrenshaw.com/), which I recommend you read. You will find all book references at the end of the book in the bibliography.
 
@@ -37,7 +37,7 @@ This exercise poses no difficulty, but it highlights how often we overlook the i
 
 Start with a blank sheet of paper and draw this table.
 
-![Table for exercise F.2](/assets/chapters/chapter1/Execise_1.2_Table.png)
+![Table for exercise 1.1](/assets/chapters/chapter1/Execise_1.2_Table.png)
 
 The exercise has two parts, and you will need a chronograph; **you must check how long each section of this exercise takes**.
 
