@@ -4,7 +4,7 @@ author: Guillem EfeGe
 date: 2025-09-17
 categories: [BoosterSkills, Chapters]
 layout: post
-cover: /assets/chapters/chapter3/header.png
+cover: /assets/chapters/chapter3/booster_skills_processes_header.png
 ---
 
 > ##### TIP
@@ -98,7 +98,9 @@ The last lesson I learned is about having a clear direction.
 
 If you don't know where you're going, how can you check if you're getting closer to your goal?
 
-T> If a man knows not to which port he sails, no wind is favorable.
+> ##### TIP
+> If a man knows not to which port he sails, no wind is favorable.
+{: .block-tip }
 
 Going back to the investment example, any investor needs to ensure that the company they have invested in is doing the right thing. That means she needs to set a starting point, an endpoint, and a path connecting them. She must get the company closer to the endpoint in every decision. Sounds obvious. You would be surprised at how many professionals overlook it.
 

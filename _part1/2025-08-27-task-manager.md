@@ -4,7 +4,7 @@ author: Guillem EfeGe
 date: 2025-08-27
 categories: [BoosterSkills, Chapters]
 layout: post
-cover: /assets/chapters/chapter1/header.png
+cover: /assets/chapters/chapter1/booster_skills_tasks_header.png
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsiZifWbwPg?si=FSO_4oeJYbrdIbY8" title="Booster Skills: Task Manager" style="display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
