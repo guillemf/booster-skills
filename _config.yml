@@ -56,6 +56,9 @@ collections:
   part1:
     output: true
     permalink: /:collection/:path/
+  part2:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
