@@ -69,6 +69,7 @@ collections:
 ordered_collections:
   - posts
   - part1
+  - part2
   - pages
   - others
 
