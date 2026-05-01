@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guillem EfeGe: human-centric leadership.
+title: Guillem EfeGe - human-centric leadership.
 permalink: /
 ---
 
