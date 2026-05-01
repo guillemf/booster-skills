@@ -1,14 +1,20 @@
 ---
 layout: home
-title: Booster 🚀 Skills Framework
+title: Building high-performance tech teams through human-centric leadership.
 permalink: /
 ---
-> **Booster 🚀 Skills** is a compilation of techniques to help you in your daily work. It is a set of improvements that focuses on removing friction and focusing on take the best of your time and effort, and the best of all, it is free for you to use it, improve it, and make it yours.
+
+I help engineering teams and tech leaders improve communication, ownership, execution, and team health without losing technical rigor.
+
+I spent 15+ years in the trenches of IT so you don't have to deal with toxic team dynamics or communication breakdowns.
+
+Clearly define the pain points of tech leads (e.g., "Why do my best developers keep quitting?" or "Why are our stand-ups so unproductive?").
 
 ----
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XEnM54St9oc?si=6lpzmnJeoEoaiYPS" title="Booster Skills Introduction" style="border:1;display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ----
+
 
 Engineers often discuss the distinction between what we refer to as _Soft Skills_ and _Hard Skills_.
 

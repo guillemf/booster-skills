@@ -53,13 +53,10 @@ exclude:
   - _drafts
 
 collections:
-  part1:
-    output: true
-    permalink: /:collection/:path/
-  part2:
-    output: true
-    permalink: /:collection/:path/
   pages:
+    output: true
+    permalink: /:collection/:path/
+  framework:
     output: true
     permalink: /:collection/:path/
   others:
@@ -68,9 +65,8 @@ collections:
 
 ordered_collections:
   - posts
-  - part1
-  - part2
   - pages
+  - framework
   - others
 
 page_width: 800px
