@@ -33,7 +33,11 @@ Working with me, you'll receive:
 
 **The outcome**: Healthier teams, better execution, less attrition, and engineering that delivers business value on time.
 
+For more details check the services page for [Companies][servicesCompanies] or [Individuals][servicesIndividuals]
 
 **Book a free 30-minute intro call**
 
 Let's diagnose your biggest challenge and explore how I can help.
+
+[servicesCompanies]: pages/00services/#team-and-leadership-diagnosis
+[servicesIndividuals]: pages/00services/#career-and-leadership-coaching
