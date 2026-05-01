@@ -15,7 +15,7 @@ layout: post
 | [<img align="left" alt="hello@myboosterskills.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.15.0/icons/protonmail.svg" />&nbsp; Email ][email] | [<img align="left" alt="guillem.cat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.15.0/icons/safari.svg" />&nbsp; My Website][guillem_cat] | [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.15.0/icons/youtube.svg" /> &nbsp;  Youtube][youtube] | [<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.15.0/icons/x.svg" /> &nbsp; @guillemfg][twitter] | [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /> &nbsp; LinkedIn][linkedin] |
 {: style="table-layout : fixed; border: none !important;"}
 
-[email]: hello@myboosterskills.com
+[email]: mailto:hello@myboosterskills.com
 [linkedin]: https://www.linkedin.com/in/gfernandezg/
 [guillem_cat]: https://pro.guillem.cat
 [youtube]: https://www.youtube.com/channel/UCoH5lIMP8IcwHTQsWypSA2Q

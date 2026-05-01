@@ -6,14 +6,36 @@ permalink: /
 
 I help engineering teams and tech leaders improve communication, ownership, execution, and team health without losing technical rigor.
 
-I spent 15+ years in the trenches of IT so you don't have to deal with toxic team dynamics or communication breakdowns.
+With 20+ years leading engineering teams, product development, and organizational transformations — as Head of Engineering, consultant, founder, and university teacher — I've solved these problems from the inside.
 
-Clearly define the pain points of tech leads (e.g., "Why do my best developers keep quitting?" or "Why are our stand-ups so unproductive?").
+
+Are you struggling with:
+
+- Why do my best developers keep quitting?
+- Why are our stand-ups unproductive and misaligned?
+- What's preventing us from delivering on time and scope?
+- How do I scale team culture while growing fast?
+- What training actually works for engineering teams and leads?
+
+I've solved these challenges across startups, scale-ups, enterprises, and consultancy — leading transformations, unifying distributed teams, building CI/CD cultures, and turning friction into high-performance execution.
+
+Working with me, you'll receive:
+
+- **Diagnosis** — Clear identification of your biggest friction points and root causes
+- **Roadmap** — A prioritized action plan to reduce waste, improve alignment, and accelerate delivery
+- **Processes** — Documented, practical workflows your team will actually use
+- **Training** — Targeted workshops for teams and mentoring for leaders
+- **Execution support** — Shadowing, iteration, and hands-on guidance as your team adopts new habits
+
+**The outcome**: Healthier teams, better execution, less attrition, and engineering that delivers business value on time.
 
 ----
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XEnM54St9oc?si=6lpzmnJeoEoaiYPS" title="Booster Skills Introduction" style="border:1;display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ----
+
+**Book a free 30-minute intro call**
+Let's diagnose your biggest challenge and explore how I can help.
 
 
 Engineers often discuss the distinction between what we refer to as _Soft Skills_ and _Hard Skills_.
@@ -37,17 +59,3 @@ I've been trying, testing, exploring, and failing to find what works and what do
 I organized this framework into blocks, each of which dives into a specific concept. Although I originally conceived it to be read sequentially, you can skip those topics that are not of interest at any moment, except for the first chapter. The first part lays the groundwork for why this approach is practical and why you should consider each technique.
 
 In each section, you will find exercises to practice the skills presented, as well as specific bibliographic references to explore the concepts and gather more information about each technique.
-
-# Home.
-
-# Services.
-
-## For companies.
-
-## For individuals.
-
-# About / credibility.
-
-# Resources.
-
-# Contact / book a call.
