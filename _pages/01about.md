@@ -4,6 +4,7 @@ author: Guillem EfeGe
 date: 2022-02-04
 category: Jekyll
 layout: post
+cover: /assets/pages/guillem-about.png
 ---
 
 # About me
@@ -56,4 +57,4 @@ I share the framework for free so people can start improving today; I offer my s
 
 If you want support improving leadership, team health, communication, or execution in your organization — or in your own career — I’d be happy to help. A free 30-minute intro call is a simple way to explore your current challenges and see whether working together makes sense.
 
-[framework]: framework/2025-08-27-part1/
+[framework]: /framework/2025-08-27-part1/
