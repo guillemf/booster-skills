@@ -1,13 +1,11 @@
 ---
-title: About
+title: Services
 author: Guillem EfeGe
 date: 2022-02-04
 category: Jekyll
 layout: post
 ---
 
-# Services.
+# For companies.
 
-## For companies.
-
-## For individuals.
+# For individuals.
