@@ -37,3 +37,17 @@ I've been trying, testing, exploring, and failing to find what works and what do
 I organized this framework into blocks, each of which dives into a specific concept. Although I originally conceived it to be read sequentially, you can skip those topics that are not of interest at any moment, except for the first chapter. The first part lays the groundwork for why this approach is practical and why you should consider each technique.
 
 In each section, you will find exercises to practice the skills presented, as well as specific bibliographic references to explore the concepts and gather more information about each technique.
+
+# Home.
+
+# Services.
+
+## For companies.
+
+## For individuals.
+
+# About / credibility.
+
+# Resources.
+
+# Contact / book a call.

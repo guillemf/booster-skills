@@ -1,6 +1,6 @@
 # Configurations
-title:            Booster 🚀 Skills
-longtitle:        Booster Skills, improving your daily productivity with ease
+title:            Soft 🚀 Skills
+longtitle:        Building high-performance tech teams through human-centric leadership.
 author:           Guillem EfeGe
 email:            developer@guillem.cat
 description: >
@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://boosterskills.guillem.cat'
+url:              'https://www.myboosterskills.com'
 baseurl:          ''
 rss:              RSS
 
