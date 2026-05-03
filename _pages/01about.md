@@ -1,5 +1,5 @@
 ---
-title: About
+title: ℹ️ About
 author: Guillem EfeGe
 date: 2022-02-04
 category: Jekyll

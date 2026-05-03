@@ -1,9 +1,10 @@
 ---
-title: Services
+title: 💼 Services
 author: Guillem EfeGe
 date: 2022-02-04
 category: Jekyll
 layout: post
+cover: /assets/pages/guillem-services.png
 ---
 
 I help technology companies, IT departments, engineering leaders, and individual professionals improve communication, execution, leadership, and team health through practical coaching, mentoring, and training. My approach combines real engineering experience, organizational transformation, and hands-on support so improvements actually stick.

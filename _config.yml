@@ -1,5 +1,5 @@
 # Configurations
-title:            Soft 🚀 Skills
+title:            🚀 Soft Skills
 longtitle:        Building high-performance tech teams through human-centric leadership.
 author:           Guillem EfeGe
 email:            developer@guillem.cat
@@ -64,9 +64,9 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
   - framework
+  - posts
   - others
 
 page_width: 800px
