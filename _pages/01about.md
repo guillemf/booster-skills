@@ -4,8 +4,9 @@ author: Guillem EfeGe
 date: 2022-02-04
 category: Jekyll
 layout: post
-cover: /assets/pages/guillem-about.png
 ---
+
+![GuillemFG](/assets/pages/guillem-about.png)
 
 # About me
 
