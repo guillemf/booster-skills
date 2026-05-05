@@ -289,7 +289,7 @@ This role cannot be performed by a shy or purely methodical person. Instead, it 
 # Takeovers
 
 > ##### TIP
-> * Face your team’s personality issues early and look for the best fit; most personalities can bring value in the right role.
+> * Face your team personalities issues soon and looking for the best fit, most personalities can bring value.
 >
 > * Avoid the archetypes that hurt your team as soon as possible.
 >
