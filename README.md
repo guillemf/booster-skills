@@ -2,6 +2,7 @@
 layout: home
 title: Guillem EfeGe - human-centric leadership.
 permalink: /
+youtubeId: XEnM54St9oc?si=6lpzmnJeoEoaiYPS
 ---
 
 I help engineering teams and tech leaders improve communication, ownership, execution, and team health without losing technical rigor.
@@ -9,8 +10,10 @@ I help engineering teams and tech leaders improve communication, ownership, exec
 With 20+ years leading engineering teams, product development, and organizational transformations — as Head of Engineering, consultant, founder, and university teacher — I've solved these problems from the inside.
 
 ----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XEnM54St9oc?si=6lpzmnJeoEoaiYPS" title="Booster Skills Introduction" style="border:1;display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/XEnM54St9oc?si=6lpzmnJeoEoaiYPS" title="Booster Skills Introduction" style="border:1;display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ -->
 
+{% include youtubePlayer.html id=page.youtubeId %}
 ----
 
 Are you struggling with:
