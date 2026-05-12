@@ -7,14 +7,11 @@ layout: post
 cover: /assets/chapters/chapter4/booster_skills_identifying_team_header.png
 ---
 
-Engineering effectiveness is not just about skills and experience; certain personality traits (especially conscientiousness and openness) strongly influence project success. Teams work best when there is personality diversity instead of everyone looking the same on a psych profile. When personalities are too homogeneous, you lose complementarity, repeat the same mistakes, and struggle to adapt to new challenges.
-
-In this chapter, we’ll look at how roles and personality traits interact in software teams, how to avoid destructive archetypes, and how to design a team roles charter you can use for hiring, onboarding, and promotions.
-
 > ##### TIP
->Talent wins games, but teamwork and intelligence win championships.
+>The future depends on what you do today.
 > 
-> --**Michael Jordan**, American Athlete
+> --**Mahatma Gandhi**, Indian Politician
+
 {: .block-tip }
 
 # What is a Career Path
