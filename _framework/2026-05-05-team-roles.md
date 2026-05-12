@@ -4,7 +4,7 @@ author: Guillem EfeGe
 date: 2026-05-05
 categories: [BoosterSkills, Chapters]
 layout: post
-cover: /assets/chapters/chapter4/booster_skills_identifying_team_header.png
+cover: /assets/covers/booster_skills_identifying_team_header.png
 ---
 
 Engineering effectiveness is not just about skills and experience; certain personality traits (especially conscientiousness and openness) strongly influence project success. Teams work best when there is personality diversity instead of everyone looking the same on a psych profile. When personalities are too homogeneous, you lose complementarity, repeat the same mistakes, and struggle to adapt to new challenges.

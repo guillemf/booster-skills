@@ -4,14 +4,13 @@ author: Guillem EfeGe
 date: 2026-05-12
 categories: [BoosterSkills, Chapters]
 layout: post
-cover: /assets/chapters/chapter4/booster_skills_identifying_team_header.png
+cover: /assets/covers/booster_skills_career_path_header.png
 ---
 
 > ##### TIP
 >The future depends on what you do today.
 > 
 > --**Mahatma Gandhi**, Indian Politician
-
 {: .block-tip }
 
 # What is a Career Path
