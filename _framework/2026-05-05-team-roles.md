@@ -289,30 +289,36 @@ This role cannot be performed by a shy or purely methodical person. Instead, it 
 
 ## What is a Career Path
 
-A career path is "the roadmap" for anyone who works in a company, to understand how they can progress over time in knowledge, responsibilities, and salary. It represents the starting point where you are, and the options you have for that progression. This should talk about titles, levels, skills, and responsibilities.
+A career path is the roadmap that helps anyone in a company understand how they can grow over time in skills, responsibilities, and salary. It shows where you are today and which options exist for that progression, including titles, levels, skills, and ownership expectations.
 
-It should include:
+A good career path makes the following explicit:
 
-- Current role.
-- Next possible roles.
-- Skills needed for each step.
-- Milestones or expectations for growth.
+- Current role
+- Next possible roles
+- Skills needed for each step
+- Milestones or expectations for growth
 
-Both vertical growth and lateral moves, how to increase your expertise level (vertical), and your responsibility and attributions (lateral).
+It should cover both vertical growth (increasing depth and expertise) and lateral moves (broadening scope, domains, or responsibilities).
 
-Inside a company, career pathing is the shared plan between the employee and the organization for how growth can happen. It helps people see whether they can grow as an individual contributor, move into management, or switch across areas like product, platform, or architecture. Not having a clear career path creates three main risks: higher turnover, lower engagement, and weaker internal development. For new joiners in fast-growing companies, it also creates confusion about what “good” looks like and how to grow without guessing. 
+Inside a company, career pathing is the shared plan between the employee and the organization for how growth can happen. It clarifies whether someone can grow as an individual contributor, move into management, or shift across areas like product, platform, or architecture.
+
+When there is no clear career path, three things usually happen: turnover rises, engagement drops, and internal development becomes weaker. For new joiners in fast-growing companies, it also creates confusion about what “good” looks like and how to grow without guessing.
 
 ## Main risks
 
-- People assume they must leave the company to progress, which raises attrition risk and weakens retention. How could you expect someone to stay when there is no clear process to growth?
-- Motivation drops when effort does not seem tied to visible growth, promotion, or broader responsibility. Growth is a big driver for motivation, not sustaining this growth on objective and clear criteria will impact in the motivation.
-- Managers end up making ad hoc decisions, which creates inconsistency and perceived unfairness across the team. As stated before, if the rules for all are clear and uniform, the promotion relies on the manager personal criteria, which can lead to unfair decisions, and impacts the team perception of fairness.
-- The company loses internal mobility, so it struggles to grow leaders and fill roles from within. A defined role should be the same independently of the team/project/squad you belong in your organization.
-- Expectations of promotion solely based on the amount of time you've been working for the company.
+- People assume they must leave the company to progress, which raises attrition and weakens retention. If there is no visible path to growth, changing jobs becomes the only obvious option.
+- Motivation drops when effort does not seem tied to visible growth, promotion, or broader responsibility. Growth is a major driver of motivation; if criteria are not clear and objective, people disengage.
+- Managers make ad hoc promotion decisions, creating inconsistency and perceived unfairness across teams. When rules are not explicit and shared, promotions depend on each manager’s personal criteria.
+- The company loses internal mobility and struggles to grow leaders from within. A role should mean the same thing regardless of team, project, or squad; otherwise moving people across the org becomes painful.
+- Promotions are expected purely based on time served in the company instead of impact, skills, or scope. This feeds entitlement, misalignment, and frustration on both sides.
 
 ## Effect on new joiners
 
-New joiners need clarity as their position should be clear from day one. Why they have the level they are assigned, why their salary corresponds to the range assigned to that level/role, who to go in case of help or assistance needed, and how they can do to go to the next level. If new joiners need to spend time guessing who is who, and why each member is taking responsibilities, that could lead to a big loss of time decoding the company culture instead of focuring on getting up to speed and start contributing as soon as possible. This is an important component of the Onboarding that we will see later in the framework.
+New joiners need clarity from day one. They should understand why they have their current level, why their salary fits the band for that level and role, who they can go to for help, and what it takes to reach the next level.
+
+If they have to spend weeks decoding who is who, why each person has certain responsibilities, and what “senior” actually means, they waste energy learning the org’s politics instead of focusing on onboarding and contributing.
+
+A clear career path becomes a core part of onboarding: it explains expectations, shows what “good” looks like for their level, and gives them a concrete direction for growth instead of leaving them to guess.
 
 ## Why fast growth makes it worse
 
