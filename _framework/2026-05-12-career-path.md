@@ -7,7 +7,7 @@ layout: post
 cover: /assets/covers/booster_skills_career_path_header.png
 ---
 
-> ##### TIP
+> ##### Quote
 >The future depends on what you do today.
 > 
 > --**Mahatma Gandhi**, Indian Politician
@@ -326,7 +326,7 @@ In general, this is a graphic representation of **How the Levels Connect**:
 - At **mid** level, you deal with more ambiguous but contained problems, own complete features, think in short-term (sprint-level) outcomes, and actively support teammates.
 - At **senior** level, you tackle open-ended, systemic problems, own outcomes end-to-end, think about long-term sustainability, and intentionally shape and influence other people’s work and growth.
 
-> ##### TIP
+> ##### Tip
 > **Simple rule**:
 > If someone is already operating at the next level for ~2–3 months, they’re ready.
 {: .block-tip }
@@ -475,7 +475,6 @@ Now you have all the information you need to be aware of **what you have** and *
 
 # Takeovers
 
-> ##### TIP
 > * A clear career path is a shared roadmap between company and employee that aligns titles, skills, scope, and expectations over time.
 >
 > * Lack of a defined career path increases attrition, hurts engagement, and makes promotions feel arbitrary and unfair.

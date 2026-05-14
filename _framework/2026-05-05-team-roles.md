@@ -11,7 +11,7 @@ Engineering effectiveness is not just about skills and experience; certain perso
 
 In this chapter, we’ll look at how roles and personality traits interact in software teams, how to avoid destructive archetypes, and how to design a team roles charter you can use for hiring, onboarding, and promotions.
 
-> ##### TIP
+> ##### Quote
 >Talent wins games, but teamwork and intelligence win championships.
 > 
 > --**Michael Jordan**, American Athlete
@@ -288,7 +288,6 @@ This role cannot be performed by a shy or purely methodical person. Instead, it 
 
 # Takeovers
 
-> ##### TIP
 > * Face your team personalities issues soon and looking for the best fit, most personalities can bring value.
 >
 > * Avoid the archetypes that hurt your team as soon as possible.

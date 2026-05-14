@@ -7,7 +7,7 @@ layout: post
 cover: /assets/chapters/chapter4/booster_skills_identifying_team_header.png
 ---
 
-> ##### TIP
+> ##### Quote
 >A successful team is a group of many hands but of one mind.
 > 
 > --**Bill Bethel**, American pastor

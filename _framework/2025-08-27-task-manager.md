@@ -11,7 +11,7 @@ cover: /assets/chapters/chapter1/booster_skills_tasks_header.png
 
 ---
 
-> ##### TIP
+> ##### Quote
  >To do two things at once is to do neither.
 > 
 > --**Publilius Syrus**, Roman philosopher
@@ -109,7 +109,7 @@ Usually, complex tasks can not be background tasks, but background tasks will he
 
 ### Divide your time into slices
 
-> ##### TIP
+> ##### Quote
  >The average American worker has fifty interruptions a day, of which seventy percent have nothing to do with work.
 > 
 > --**W. Edwards Deming**, American engineer, statistician, professor, author, lecturer, and management consultant.
@@ -209,7 +209,7 @@ These stages are not always met in all learning processes, as we might find ours
 
 ## Task Execution
 
-> ##### TIP
+> ##### Quote
 > Do or do not. There's no try.
 >
 > --**Yoda**, Jedi Master
@@ -312,7 +312,7 @@ This explanation simplifies the method, but it is a good starting point.
 
 This matrix categorizes tasks into two categories: Important and Urgent. The four quadrants recognize the following categories:
 
-> ##### TIP
+> ##### Highlight
 > **Important and Urgent**: Anything vital to our activity that we can't postpone.
 >
 > **Important but not Urgent**: We can take our time to execute those critical things.
@@ -326,7 +326,7 @@ This matrix categorizes tasks into two categories: Important and Urgent. The fou
 
 Using this classification, it becomes smooth and precise what to do with any task in one quadrant.
 
-> ##### TIP
+> ##### Highlight
 > **Important and Urgent**: These are the tasks we should focus on. Any question that requires our attention and affects the work we can't delay should be our priority.
 >
 > **Important but not Urgent**: When we classify something as necessary, we are the person who indicated it. If we postpone it, we can schedule it and execute it at the ideal time.
@@ -399,7 +399,6 @@ Focusing on a task is crucial to advance. The task you are working on has to be 
 
 ## Takeovers
 
-> ##### TIP
 >
 > * We can only do one thing simultaneously; what we perceive as multitasking is task-switching.
 >

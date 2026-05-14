@@ -7,7 +7,7 @@ layout: post
 cover: /assets/chapters/chapter3/booster_skills_processes_header.png
 ---
 
-> ##### TIP
+> ##### Quote
 > A goal without a plan is just a wish.
 > 
 > -- **Antoine de Saint-Exup&eacute;ry**, French writer, poet, journalist and aviator.
@@ -43,7 +43,7 @@ Do you imagine a risk investor making investments without any preparation or inv
 
 Long working hours are not a guarantee of a profitable return. In my professional life, I learned something that completely changed my perception of how I should invest my time.
 
-> ##### TIP
+> ##### Quote
 > Make a clear separation between your professional and personal lives.
 {: .block-tip }
 
@@ -64,7 +64,7 @@ From that experience, I adopted two rules that I follow strictly. I never work o
 ![Excess Anxiety](/assets/chapters/chapter3/excess_anxiety.png)
 
 
-> ##### TIP
+> ##### Quote
 > If we fail to prepare, we prepare to fail.
 > 
 > -- **James H. Hope**, State Superintendent of Education for South Carolina.
@@ -90,7 +90,7 @@ Of course not.
 
 However, for some reason, we accept building applications with minimal to no preparation in our engineering department.
 
-> ##### TIP
+> ##### Tip
 > Spend time in preparation, and your time will have double value.
 {: .block-tip }
 
@@ -98,7 +98,7 @@ The last lesson I learned is about having a clear direction.
 
 If you don't know where you're going, how can you check if you're getting closer to your goal?
 
-> ##### TIP
+> ##### Tip
 > If a man knows not to which port he sails, no wind is favorable.
 {: .block-tip }
 
@@ -106,7 +106,7 @@ Going back to the investment example, any investor needs to ensure that the comp
 
 The same happens to you. When you get involved in a project, setting a clear goal and a plan to get there is mandatory. Any step, task, or idea should bring you closer to the target. Otherwise, you are wasting your gold.
 
-> ##### TIP
+> ##### Tip
 > Collect all the information you need before investing your time. 
 {: .block-tip }
 
@@ -437,7 +437,7 @@ You shouldn't find anything obvious or that you don't need to be aware of in thi
 
 Or anything that belongs to your daily routine. The rule to understand what should and shouldn't be included in your journal is:
 
-> ##### TIP
+> ##### Tip
 > Include items that are **SMART**
 > Don't include items that don't belong to a daily routine or don't require some action from your side.
 {: .block-tip }
@@ -482,7 +482,7 @@ Any task you include should be measurable in terms of time and effort. This conc
 
 After this initial big inbox processing, the process will continue. Whenever you have a new task, add it to your inbox. It doesn't matter if you use a notes app on your phone, a notebook, a shelf on your desk, or any other repository. The only condition to remember is keeping the collection and processing separate.
 
-> ##### TIP
+> ##### Tip
 > The separation between collect and process is crucial. Collecting is the process of moving any pending task out of your mind. You put that task in a repository, freeing your mind from that pulling effect. The processing allows you to decide what to do with that task.
 {: .block-tip }
  
@@ -559,7 +559,6 @@ The Month Migration process should include:
 
 ## Takeovers
 
-> ##### TIP
 > 
 > * Play Your Cards Wisely. Life gives you a fair amount of time. It depends on how you spend that time.
 >
