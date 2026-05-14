@@ -345,9 +345,155 @@ But, what actually triggers promotion? here you can see a visual scheme:
 
 # Leveling your team members
 
+Now that we have a solid ladder, we need to find a fair and repeatable way to map our team members into the different levels we defined.
+
+## Clarify what you’re assessing
+
+You should anchor everything in the 3 dimensions we defined: **scope, autonomy, impact**. For each level, turn your existing descriptions into 5–8 observable behaviors, for example:
+
+- Junior L2: “Delivers small features with guidance; asks for help before getting stuck; PRs still need structural feedback.”
+- Mid L2: “Designs parts of the system, owns incidents of moderate complexity, informally mentors juniors.”
+- Senior L1: “Leads complex projects end-to-end, makes trade-offs explicit, handles tough production issues.”
+
+This becomes your evaluation rubric: everyone is judged against the same behaviors, not gut feeling. This is a very important aspect of the leveling as it should be as objective as possible, everyone can bring personal and convincing reasons to deserve a higher level, but you should be able to demonstrate that the method is fact based, and not opinion based.
+
+You should present this exercise as a fair and comprehensive tool to ensure everyone is at the right career level, and that brings stability into the team. Consider that not everyone will be happy with the results and some team members, specially the ones with more time in the company, will tend to feel downgraded due to the knowledge they have of the system itself, but, even that you need to consider it, the capacity of working in the three dimensions should prevail over the time.
+
+## Use a 360° evidence-based assessment
+
+Think in three passes: self, manager, and peers. Each pass uses the same rubric. This is a very powerful tool, as it uncovers, in many occasions, aspects that your team members never saw. You need to be careful about the personal issues inside the team, and be very clear about **what you are assessing** and ask for an objective exercise.
+
+### Self-assessment
+
+Ask each engineer to do a self-leveling using your ladder:
+
+- “For each dimension (scope, autonomy, impact), which level best reflects how you’ve been operating over the last 3–6 months?”
+- “List 3–5 concrete examples (tickets, incidents, projects) that show you’re operating at that level.”  
+
+This forces them to bring evidence and tells you how they see themselves.
+
+Example questions they answer:
+
+- When was the last time you led something end-to-end? What was your role?  
+- Tell me about a time you unblocked others or mentored someone.  
+- Describe a tricky production issue you handled: what did you do?
+
+## Manager assessment: apply the “trust tests”
+
+In your 1:1 calibration, you basically answer the trust question for each person.
+
+For each level band:
+
+- Junior → “Can I trust them to deliver a clear task correctly?”
+- Mid → “Can I trust them with a problem, not just a task?”
+- Senior → “Can I trust them to guide others and improve the system over time?”
+
+Concrete prompts you can use:
+
+- Scope  
+  - “What kind of work do I actually give them: tasks, features, or projects?”  
+  - “Do I route messy/ambiguous work to them, or avoid it because they might sink?”
+
+- Autonomy  
+  - “If I went on holiday for two weeks, would this person keep moving or stall?”  
+  - “Do they come back with questions only, or with options and trade-offs?”
+
+- Impact  
+  - “Who works better because this person is here?”  
+  - “What is measurably better in the codebase or system because of them?”
+
+You compare your answers and examples with their self-assessment, how they match can give you a good starting point on where conflicts may appear.
+
+## Peer input: calibrated, not popularity-based
+
+Keep peer feedback structured and small to avoid politics:
+
+Ask 3–5 colleagues (mix of same-level, juniors they help, and people from other functions):
+
+- “In what situations do you rely on this person?”  
+- “What have they taught you in the last 3–6 months?”  
+- “How do they behave in high-pressure situations (incidents, deadlines)?”
+
+You’re looking for consistent patterns that match your level definitions:
+
+- “Always steps in during incidents and keeps everyone calm → senior-like impact.”  
+- “Good executor but avoids unclear tickets → mid-level anti-pattern.”
+
+## Turn your ladder into a simple scoring grid
+
+To make the process repeatable and easier to explain, you can use a lightweight scoring method:
+
+For each person:
+
+- Scope: rate from 1–3 (junior, mid, senior) based on where they operate most of the time.
+- Autonomy: 1–3  
+- Impact: 1–3
+
+Examples:
+
+- 1–1–1 → clearly junior  
+- 2–2–1 or 2–2–2 → mid, early vs solid  
+- 3–3–2 or 3–3–3 → senior
+
+Then refine with your within-band levels (L1, L2, L3) using your promotion “signals” and “anti-patterns” already defined in the article. [skillpanel](https://skillpanel.com/blog/career-progression-framework/)
+
+You can turn this into a small table in your post:
+
+| Dimension | 1 (Junior)                                | 2 (Mid)                                            | 3 (Senior)                                                     |
+|----------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------------------|
+| Scope    | Tasks / small changes                      | Features / components                              | Systems / cross-team concerns                                  |
+| Autonomy | Needs close guidance                       | Works independently on defined problems            | Sets direction, handles ambiguity                              |
+| Impact   | Mostly on own work                         | Improves team delivery                             | Elevates people, practices, and system health                  |  
+
+## Calibration and fairness practices
+
+To avoid “loudest voice wins”, do a short calibration session with other managers or senior engineers:
+
+- Bring anonymized examples: “Engineer A: owned checkout refactor, led 3 incidents, mentors 2 juniors…”  
+- Place people on your ladder visually (a grid or sticky-notes board).  
+- Challenge each other with: “If we renamed everyone and changed teams, would this still be their level?”
+
+Also, apply the rule we saw before: someone should be operating at the next level for 2–3 months before promotion. 
+
+## How to communicate levels to the team
+
+When you share results with each person:
+
+- Start with strengths in the language of the ladder: “You’re consistently acting as a mid L2 in scope and autonomy.”
+- Then gaps, mapped to concrete behaviors: “To reach mid L3, we need to see you mentoring juniors and contributing more to design discussions.”
+- End with a 3–6 month growth plan tied to those behaviors (specific projects, responsibilities, and support).
+
+That turns the leveling exercise into a growth conversation, not a judgment.
+
+# Recap
+
+Now you have all the information you need to be aware of **what you have** and **what you need** to create a truly balanced team. The next steps, when possible, should be adaptation of the salary levels to the ones you mapped in the career path. This is a very tough question that might need collaboration from other departments, and does not need to be done immediately, but you should keep something in mind:
+
+- Everyone should be paid accordingly to their level
+- New joiners should be paid inside the boundaries of the levels they are being hired.
+
+
 # Takeovers
 
 > ##### TIP
-> * 
+> * A clear career path is a shared roadmap between company and employee that aligns titles, skills, scope, and expectations over time.
+>
+> * Lack of a defined career path increases attrition, hurts engagement, and makes promotions feel arbitrary and unfair.
+>
+> * Fast-growing companies suffer more without a framework because roles, salaries, and expectations get misaligned very quickly.
+>
+> * A good ladder is built around three dimensions: scope (task → system → domain), autonomy (guided → independent → directional), and impact (self → team → organization).
+>
+> * Junior, mid, and senior levels differ less by years of experience and more by the kind of problems they own and the trust you can place in them.
+>
+> * Promotions should be based on observed behavior over 2–3 months at the next level, not on time served or self-declared potential.
+>
+> * Leveling must be evidence-based: combine self-assessment, manager “trust tests,” and structured peer feedback, all mapped to the same rubric.
+>
+> * A simple scoring grid for scope, autonomy, and impact (1–3) makes leveling repeatable, explainable, and easier to calibrate across managers.
+>
+> * Communicating levels well means turning results into concrete growth plans, so people leave the conversation with next steps instead of labels.
+>
+> * Aligning compensation bands with the career path is hard but essential so pay reflects level, not negotiation skill or hiring timing.
 >
 {: .block-tip }
