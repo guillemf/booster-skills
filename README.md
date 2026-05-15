@@ -36,11 +36,21 @@ Working with me, you'll receive:
 
 **The outcome**: Healthier teams, better execution, less attrition, and engineering that delivers business value on time.
 
-For more details check the services page for [Companies][servicesCompanies] or [Individuals][servicesIndividuals]
+For more details check the services page for [Companies][servicesCompanies] or [Individuals][servicesIndividuals], you will find some offering as:
 
-**Book a free 30-minute intro call**
+- [3-Month Team Booster Program][teamBoosterProgram]
+- [One-off workshops (online or in-person)][one-offWorkshops]
+- [1:1 Engineering Leader Program][engineeringLeaderProgram]
+- [1:1 Program “Senior IC with Impact”][seniorICwithImpact]
+
+**Book a free 30-minute intro call** at [The shared Calendar][calendarContact]
 
 Let's diagnose your biggest challenge and explore how I can help.
 
 [servicesCompanies]: pages/00services/#team-and-leadership-diagnosis
 [servicesIndividuals]: pages/00services/#career-and-leadership-coaching
+[teamBoosterProgram]: pages/00services/#3-month-team-booster-program
+[one-offWorkshops]: pages/00services/#one-off-workshops-online-or-in-person
+[engineeringLeaderProgram]: pages/00services/#11-engineering-leader-program
+[seniorICwithImpact]: pages/00services/#11-program-senior-ic-with-impact
+[calendarContact]: pages/02contact/

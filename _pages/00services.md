@@ -76,6 +76,24 @@ Formats:
 - Team-specific enablement tracks.
 - Follow-up mentoring and shadowing.
 
+## Engineering Team Health Assessment (LAN Audit)
+
+- 2–4 weeks, interviews with leaders and team members, process review, report with recommendations.
+- Deliverables: Executive report + debriefing session with leadership.
+
+## 3-Month Team Booster Program
+
+Includes:
+- Initial workshop (CPU/LAN for the entire team).
+- Bi-weekly coaching with the engineering lead.
+- Career path design or review.
+
+## One-off workshops (online or in-person)
+
+3–4 hours on topics such as:
+- “How to define an engineering career path without creating bureaucracy.”
+- “From developer to manager without losing your technical skills.”
+
 # For individuals.
 
 I also work with individual professionals who want to grow as engineers, team leads, managers, or technical leaders. This is for people who are excellent on the technical side and want to become stronger in communication, influence, leadership, and day-to-day effectiveness.
@@ -113,9 +131,26 @@ How I work:
 3. Intervention — We define the right mix of coaching, workshops, mentoring, process design, or training.
 4. Follow-through — I stay involved to help the change take root through mentoring, shadowing, and iteration.
 
+## 1:1 Engineering Leader Program
+
+**Target**: Engineering Managers / Tech Leads
+
+**Format**: 6 sessions of 60 minutes each over 8–10 weeks
+
+**Content**:
+- **CPU**: focus, time management, prioritization
+- **LAN**: feedback, 1:1 communication, conflict management, performance
+- **WAN**: internal positioning, promotions, visibility within the company
+
+## 1:1 Program “Senior IC with Impact”
+
+4–6 sessions focused on communication, influence without authority, and internal visibility (internal WAN).
+
+
 # Let’s find the right format
 
 Whether you need support for an engineering organization or for your own professional growth, I can help you identify the right next step. We can start with a free 30-minute intro call to understand your situation and see where I can add the most value.
 
-Book a free 30-minute intro call
+Book a free 30-minute intro call at [The shared Calendar][calendarContact]
 
+[calendarContact]: pages/02contact/
