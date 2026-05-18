@@ -247,10 +247,14 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 }
 
 :root {
-    --c-tip: #42b983;
-    --c-tip-bg: #e2f5ec;
-    --c-tip-text: #215d42;
-    --c-tip-title: #359469;
+     --c-tip: orange;
+    /* --c-tip: #42b983; */
+    /* --c-tip-bg: #e2f5ec; */
+    --c-tip-bg: #f5eee2;
+    --c-tip-text: #5d4021;
+    /* --c-tip-text: #215d42; */
+    /* --c-tip-title: #359469; */
+    --c-tip-title: orange;
     --c-warning: #e7c000;
     --c-warning-bg: rgba(255, 229, 100, .25);
     --c-warning-text: #6b5900;
@@ -260,4 +264,5 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --c-danger-text: #600;
     --c-danger-title: #c00;
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    --c-page-title: orange;
 }
