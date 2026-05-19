@@ -241,6 +241,16 @@
     margin-bottom: 0px;
 }
 
+.markdown-section ul.check-list {
+   list-style-type:none;
+}
+
+.markdown-section ul.check-list li::before {
+  content: "◻";
+  display: inline-block;
+  margin-right: 0.4rem;
+}
+
 pre:has(code.language-mermaid[data-processed="true"]) {
     background-color: #ffffff;
     text-align: center;
