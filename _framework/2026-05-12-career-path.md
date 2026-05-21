@@ -473,7 +473,7 @@ Now you have all the information you need to be aware of **what you have** and *
 - New joiners should be paid inside the boundaries of the levels they are being hired.
 
 
-# Takeovers
+# Key ideas
 
 > * A clear career path is a shared roadmap between company and employee that aligns titles, skills, scope, and expectations over time.
 >

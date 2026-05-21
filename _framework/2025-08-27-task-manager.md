@@ -4,14 +4,8 @@ author: Guillem EfeGe
 date: 2025-08-27
 categories: [BoosterSkills, Chapters]
 layout: post
-cover: /assets/chapters/chapter1/booster_skills_tasks_header.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GsiZifWbwPg?si=FSO_4oeJYbrdIbY8" title="Booster Skills: Task Manager" style="display:block;margin:auto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-> ##### Quote
  >To do two things at once is to do neither.
 > 
 > --**Publilius Syrus**, Roman philosopher
@@ -19,19 +13,23 @@ cover: /assets/chapters/chapter1/booster_skills_tasks_header.png
 
 ## Multitasking
 
-Current CPUs are multicore, which means they are a set of CPUs working together, pretending to be one to you. This fact, in conjunction with our perception of the CPU as the "brain" of the computer, leads us to find some similarities between the CPU and our human brain. Still, the reality is that in this aspect, we are closer to the old Intel 8086 than to the actual CPUs, which are capable of performing tasks in parallel, something we cannot do.
+Every day, we face the same problem: too many things competing for our attention. Messages arrive, meetings interrupt us, ideas pop into our heads, and urgent requests appear while we are already busy. If we want to do meaningful work, we need a simple way to decide what to do, what to delay, and what to ignore.
 
-We have the wrong impression that we can do many things simultaneously, multitasking. The reality is that we are only pretending that we have that skill. When I think about it, I soon realize I can't even move the spoon in circles to mix the sugar with the coffee while reading; I know that I usually stop moving the spoon to focus on reading.
+This chapter is about managing attention, not just managing tasks. The goal is not to become a machine that does more and more. The goal is to reduce friction, make better decisions, and spend our energy on the work that matters most.
 
-The reason for that is simple. When we focus on one task, all our resources are focused on performing that task. We often have the wrong impression that we can do more than one thing simultaneously, but that is just a perception, as we'll soon see. We are just _task-switching_. I will elaborate more on this concept in this chapter.
+We often say we are multitasking, but that is not really what is happening. Most of the time, we are simply moving our attention quickly from one task to another. It feels efficient, but in practice it usually slows us down.
+
+The reason is simple: every time we switch tasks, we pay a mental cost. We need a few moments to remember where we were, what we were thinking, and what comes next. That cost may seem small, but repeated many times during the day, it becomes expensive.
+
+A simple example makes this clear. Try stirring your coffee while reading a paragraph carefully. At some point, one of the two actions slows down or stops because your attention shifts to the other.
 
 ### We can't multitask
 
-The best way to understand what I'm talking about is by experiencing it firsthand. There is a straightforward exercise you can do to check the myth of multitasking by yourself.
+The best way to understand this is to experience it for yourself. A simple exercise can show how much slower task switching is than focused work.
 
 <p style="font-size: 20px; font-weight: bold;">Exercise 1.1: Multitasking is worse than a lie.</p>
 
-I found this exercise in the book [The Myth of Multitasking: How Doing It All Gets Nothing Done](https://www.amazon.com/gp/product/B07Y3TCQKL/ref=dbs_a_def_rwt_bibl_vppi_i1) by [Dave Crenshaw](https://davecrenshaw.com/), which I recommend you read. You will find all book references at the end of the book in the bibliography.
+I found this exercise in the book "The Myth of Multitasking: How Doing It All Gets Nothing Done"[^1] by Dave Crenshaw[^2], which I recommend you read. You will find all book references at the end of the book in the bibliography.
 
 This exercise poses no difficulty, but it highlights how often we overlook the impact of pretending to multitask.
 
@@ -92,7 +90,7 @@ Imagine what truly complex tasks can do if two simple tasks have this incredible
 
 You might argue that there are cases where you can do two or more things simultaneously, such as driving and speaking with someone in the car; however, we are considering different situations. In the case of driving, your car is a "background task." It does not require your attention because you have reached the "Unconscious competence" level (we'll discuss it in future chapters). It is a simple task for you and does not require the level of attention that you might need to write an email or review code. In the "Load New Content" section, we explain that you can install two types of skills: Applications and Daemons.
 
-Imagine doing anything else when you drove your car for the first time. At that time, it was a complicated task, but you did it so often that you internalized it, making it a background task. What I call  _Background Tasks_ are those tasks we internalize so much that we can perform them without thinking. Some great examples of that are what happens in martial arts and music.
+Imagine doing anything else when you drove your car for the first time. At that time, it was a complicated task, but you did it so often that you internalized it, making it a background task. What I call _Background Tasks_ are those tasks we internalize so much that we can perform them without thinking. Some great examples of that are what happens in martial arts and music.
 
 Think about each movement you must make in martial arts to react to your opponent's move. If you analyze and prepare for your move, you're done. Your opponent will catch you. Your reaction needs to be almost automatic. To reach that efficiency level, you must practice the movement thousands of times until you create muscle memory. We develop muscle memory after repeatedly performing the same action, so you react to the trigger more efficiently as you practice. Initially, you are clumsy and slow on the technique, but as you become more used to it, you perfect it until you don't need to think to act.
 
@@ -109,13 +107,13 @@ Usually, complex tasks can not be background tasks, but background tasks will he
 
 ### Divide your time into slices
 
-> ##### Quote
- >The average American worker has fifty interruptions a day, of which seventy percent have nothing to do with work.
+
+>The average American worker has fifty interruptions a day, of which seventy percent have nothing to do with work.
 > 
 > --**W. Edwards Deming**, American engineer, statistician, professor, author, lecturer, and management consultant.
 {: .block-tip }
 
-A [study from the University of California, Irvine](https://www.ics.uci.edu/~gmark/chi08-mark.pdf) found that it takes 23 minutes and 15 seconds to get back to a task after an interruption on average. An interruption is not just anyone walking up to you to ask you something. Interruptions include emails, social network notifications, and web surfing unrelated to work, among others. It is not easy to block your whole day to avoid interruptions. It is also unacceptable to create a queue of people waiting to talk with you until you finish your current task. In that same study, Gloria Mark indicated that, on average, a worker is interrupted every 10 minutes and 29 seconds. These interruptions represent around 45 interruptions a day.
+A study from the University of California, Irvine[^3] found that it takes 23 minutes and 15 seconds to get back to a task after an interruption on average. An interruption is not just anyone walking up to you to ask you something. Interruptions include emails, social network notifications, and web surfing unrelated to work, among others. It is not easy to block your whole day to avoid interruptions. It is also unacceptable to create a queue of people waiting to talk with you until you finish your current task. In that same study, Gloria Mark indicated that, on average, a worker is interrupted every 10 minutes and 29 seconds. These interruptions represent around 45 interruptions a day.
 
 Let's give an example. If we were interrupted only ten times a day, far below reality, how much would we effectively dedicate to being productive? Ten times a day, it would be one interruption every 48 minutes. To make easy calculations, let's assume we need 20 minutes to get back on track. Also, let's assume that the interruption takes five minutes of your time.
 
@@ -138,7 +136,7 @@ We also have another problem to fix, though. You shouldn't work for eight hours 
 
 Fortunately, we have a technique that helps us address both problems simultaneously.
 
-This technique is [The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique), a method created by Francesco Cirillo. There are great books about this technique.
+This technique is the Pomodoro Technique[^4], a method created by Francesco Cirillo. There are great books about this technique.
 
 In a nutshell, this technique proposes using a timer to break down work into **intervals of around twenty minutes** in length, at the end of which **you take a five-minute break**; the duration in minutes can vary, but these are the standard values. **After four pomodoro**, which we call those intervals, take **a more extended break**, typically 15 minutes.
 
@@ -209,7 +207,7 @@ These stages are not always met in all learning processes, as we might find ours
 
 ## Task Execution
 
-> ##### Quote
+
 > Do or do not. There's no try.
 >
 > --**Yoda**, Jedi Master
@@ -381,7 +379,7 @@ The answer is straightforward; you can do it because watching a movie is a pleas
 
 So the key is not that you can't. The key is that you don't want to; that's when procrastination appears.
 
-If you want to avoid procrastination, there are excellent techniques you can apply, and that is very clear in the book [Eat that Frog](https://www.briantracy.com/blog/time-management/the-truth-about-frogs/) by [Brian Tracy](https://www.briantracy.com).
+If you want to avoid procrastination, there are excellent techniques you can apply, and that is very clear in the book Eat that Frog[^5] by Brian Tracy[^6].
 
 #### Start with those tasks that you like less or have more difficulty with.
 
@@ -397,24 +395,31 @@ You can work as hard as the next man, but you must finish the task and deliver t
 
 Focusing on a task is crucial to advance. The task you are working on has to be the most important thing for you in the following minutes or hours. Never leave a task incomplete; if you have no time to finish it, move it to the next day's to-do list first thing.
 
-## Takeovers
+## Key ideas
 
 >
-> * We can only do one thing simultaneously; what we perceive as multitasking is task-switching.
+> * What we often call multitasking is usually task switching, and task switching has a cost.
 >
-> * Not all tasks require the same level of attention. Only simple tasks that you have practiced for years can become background tasks.
+> * Not all tasks require the same level of attention; some become automatic only after long practice.
 >
-> * The cost of the minor interruptions can have a significant impact on our delivery capacity.
+> * Interruptions matter not only because they stop us, but because recovery takes time and energy.
 >
-> * A system like Pomodoro can help us focus for the maximum time possible while avoiding interruptions and fatigue.
+> * A system like Pomodoro can help create focused work blocks while limiting fatigue and distraction.
 >
-> * Knowing the stage we are at helps us understand the required effort and the level of expertise we aim to achieve in a specific skill.
+> * Knowing the stage we are in helps us understand the effort required to learn a skill.
 >
-> * Following a specific framework, as presented in the flow chart, will help us clarify what we should focus on at any given time in our work.
+> * A clear processing flow helps us decide what deserves attention now and what belongs elsewhere.
 >
-> * When everything is important, nothing is. We must set priorities for every task we need to work on.
+> * When everything is important, nothing is; prioritization is necessary.
 >
-> * Group tasks by context, which will help avoid context switching and significantly impact your performance.
+> * Grouping tasks by context reduces friction and unnecessary switching.
 >
-> * Focus on the task you are working on at any moment; that is the most important thing you must do, and don't stop until you finish it.
+> * Focus improves when we treat the current task as the most important thing for the next block of time.
 {: .block-tip }
+
+[^1]: [The Myth of Multitasking: How Doing It All Gets Nothing Done](https://www.amazon.com/gp/product/B07Y3TCQKL/ref=dbs_a_def_rwt_bibl_vppi_i1)
+[^2]: [Dave Crenshaw](https://davecrenshaw.com/)
+[^3]: [study from the University of California, Irvine](https://www.ics.uci.edu/~gmark/chi08-mark.pdf)
+[^4]: [The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
+[^5]: [Eat that Frog](https://www.briantracy.com/blog/time-management/the-truth-about-frogs/)
+[^6]: [Brian Tracy](https://www.briantracy.com)

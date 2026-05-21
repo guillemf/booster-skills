@@ -286,7 +286,7 @@ This role cannot be performed by a shy or purely methodical person. Instead, it 
 - Avoiding difficult conversations about process or performance issues.
 
 
-# Takeovers
+# Key ideas
 
 > * Face your team personalities issues soon and looking for the best fit, most personalities can bring value.
 >
