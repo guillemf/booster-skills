@@ -16,8 +16,6 @@ You can work with me in two ways: as a partner for your company, or as a coach f
 
 I work with technology companies and internal IT departments that want healthier teams, clearer leadership, and more reliable execution. This is especially useful when delivery is slowing down, communication is breaking, managers are struggling, or team culture is suffering during growth or change.
 
-Then present the services like this:
-
 ## Team and leadership diagnosis
 
 A focused assessment to identify the main sources of friction in your teams, leadership structure, communication, and execution model. This is ideal when you know something is wrong, but you need clarity before acting.
