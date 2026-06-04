@@ -251,6 +251,11 @@
   margin-right: 0.4rem;
 }
 
+.markdown-section ol.check-list {
+  display: inline-block;
+  margin-right: 0.4rem;
+}
+
 pre:has(code.language-mermaid[data-processed="true"]) {
     background-color: #ffffff;
     text-align: center;
