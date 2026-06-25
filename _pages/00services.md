@@ -11,8 +11,7 @@ I help technology companies, IT departments, engineering leaders, and individual
 
 You can work with me in two ways: as a partner for your company, or as a coach for your personal growth as an engineer, lead, or manager. In both cases, the goal is the same: reduce friction, strengthen leadership, and build better ways of working.
 
-
-# For companies.
+# For companies
 
 I work with technology companies and internal IT departments that want healthier teams, clearer leadership, and more reliable execution. This is especially useful when delivery is slowing down, communication is breaking, managers are struggling, or team culture is suffering during growth or change.
 
@@ -82,6 +81,7 @@ Formats:
 ## 3-Month Team Booster Program
 
 Includes:
+
 - Initial workshop (CPU/LAN for the entire team).
 - Bi-weekly coaching with the engineering lead.
 - Career path design or review.
@@ -89,6 +89,7 @@ Includes:
 ## One-off workshops (online or in-person)
 
 3–4 hours on topics such as:
+
 - “How to define an engineering career path without creating bureaucracy.”
 - “From developer to manager without losing your technical skills.”
 
@@ -120,6 +121,7 @@ Typical outcomes:
 - Stronger personal systems and habits.
 
 ## Mentoring for difficult work situations
+
 Short-term support for people dealing with specific challenges such as unclear expectations, team conflict, low trust, poor manager relationships, or blocked growth. This is a practical mentoring format focused on real situations, not generic advice.
 
 How I work:
@@ -136,6 +138,7 @@ How I work:
 **Format**: 6 sessions of 60 minutes each over 8–10 weeks
 
 **Content**:
+
 - **CPU**: focus, time management, prioritization
 - **LAN**: feedback, 1:1 communication, conflict management, performance
 - **WAN**: internal positioning, promotions, visibility within the company
