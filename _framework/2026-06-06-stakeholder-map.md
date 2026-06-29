@@ -3,6 +3,7 @@ title: Stakeholder Map & Expectations (inside + outside)
 author: Guillem EfeGe
 date: 2026-06-05
 categories: [BoosterSkills, Chapters]
+cover: /assets/covers/booster_skills_wan_stakeholders.png
 layout: post
 ---
 
