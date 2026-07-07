@@ -62,7 +62,7 @@ Each source has limitations on its own. Support shows pain but not always priori
 > One manager blocked 30 minutes every Friday to read support patterns and review one real customer story with the team. Not a giant report, just one issue, one quote, one workflow, and one lesson. Over a few months, that created better product instincts than many planning meetings, because the team kept hearing real language from real users.
 {: .block-tip }
 
-## Turning Raw Feedback into Actionable Narratives
+# Turning Raw Feedback into Actionable Narratives
 
 Raw feedback is noisy. It arrives as complaints, feature requests, screenshots, frustration, praise, or offhand comments in calls. Teams cannot act well on a random pile of disconnected signals. They need feedback translated into narratives that explain the problem clearly enough to guide action.
 
