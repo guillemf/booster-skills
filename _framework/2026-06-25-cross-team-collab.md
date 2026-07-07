@@ -133,7 +133,7 @@ A simple recovery pattern works well:
 > * When dependencies slip, recover with transparency and options, not silence or generic reassurance.
 {: .block-tip }
 
-<!-- # Related Pages
+# Related Pages
 
 - [WAN](../2026-06-05-part3/)
 - [Stakeholder Map & Expectations (inside + outside)](../2026-06-06-stakeholder-map/)
